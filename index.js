@@ -34,7 +34,7 @@ function validateUsername(username){
 }
 
 async function fetchUserDetails(username){
-  const url= `http://leetcode-stats-api.herokuapp.com/${username}`;
+  const url= `https://leetcode-stats-api.herokuapp.com/${username}`;
   try{
     searchButton.textContent="Searching...";
     searchButton.disabled= true;
