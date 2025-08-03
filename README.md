@@ -1,4 +1,6 @@
-# Let's Code – Personalized Coding Tracker 💻
+# Let's Code – Personalized Coding Tracker 💻 
+
+LeetCode is live on https://altamashraza3.github.io/LeetCode_Metrice/
 
 A web application built with **HTML**, **CSS**, and **JavaScript** that turns your LeetCode stats into interactive and insightful visualizations.
 Whether you're a beginner or an experienced coder, Let's Code helps you stay motivated and on track by showcasing your progress in real time.
